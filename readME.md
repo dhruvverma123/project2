@@ -1,3 +1,3 @@
 # New File
 
-This project from local machine
+This project from local machine.
